@@ -1,9 +1,22 @@
 @import '_vars.scss';
 
 .-text-serif {
-  font-family: serif;
+  font-family: $serif;
 }
 
+.text-sans {
+  font-family: $sans-serif;
+}
+
+.-text-italic {
+  font-style: italic;
+}
+
+.-text-bold {
+  font-weight: 700;
+}
+
+// sizes
 .-text-xs {
   font-size: $font-xs;
 }
@@ -24,6 +37,7 @@
   font-size: $font-xl;
 }
 
+// aligns
 .-text-center {
   text-align: center;
 }
@@ -36,6 +50,7 @@
   text-align: right;
 }
 
+// transform
 .-text-titlecase {
   text-transform: capitalize;
 }
@@ -48,14 +63,7 @@
   text-transform: uppercase;
 }
 
-.-text-italic {
-  font-style: italic;
-}
-
-.-text-bold {
-  font-weight: 700;
-}
-
+// heights
 .-text-height-xs {
   line-height: $font-xs;
 }
