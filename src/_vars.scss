@@ -1,6 +1,13 @@
 // layout measure
-$xs: calc(1rem / 8);
-$sm: calc(1rem / 4);
-$md: calc(1rem / 2);
-$lg: calc(1rem);
-$xl: calc(1rem * 2);
+$xs: 0.125rem;
+$sm: 0.25rem;
+$md: 0.5rem;
+$lg: 1rem;
+$xl: 2rem;
+
+// font size
+$font-xs: 0.6rem;
+$font-sm: 0.8rem;
+$font-md: 1.0rem;
+$font-lg: 1.2rem;
+$font-xl: 1.4rem;
