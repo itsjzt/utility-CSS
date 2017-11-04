@@ -1,4 +1,25 @@
+@import '_vars.scss';
 
 .serif {
-  font-face: serif;
+  font-family: serif;
+}
+
+.text-xs {
+  font-size: $font-xs;
+}
+
+.text-sm {
+  font-size: $font-sm;
+}
+
+.text-md {
+  font-size: $font-md;
+}
+
+.text-lg {
+  font-size: $font-lg;
+}
+
+.text-xl {
+  font-size: $font-xl;
 }

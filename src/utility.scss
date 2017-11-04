@@ -1,3 +1,9 @@
+@import '_colors.scss';
+@import '_vars.scss';
+@import '_mixins.scss';
+@import '_typo.scss'
+@import '_layout.scss'
+
 // html font size: needed for better working of 'rem's
 html {
   font-size: 16px;
