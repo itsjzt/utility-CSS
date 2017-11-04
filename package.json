@@ -4,7 +4,9 @@
   "description": "A minimal CSS library for making components with composition of common CSS properties ",
   "main": "null",
   "scripts": {
-    "test": "none"
+    "test": "none",
+    "watch": " node-sass --watch --recursive --output-style compressed src/ -o build/",
+    "build": "node-sass --output-style compressed src/ -o build/"
   },
   "repository": {
     "type": "git",
@@ -27,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/itsjzt/utility-CSS/issues"
   },
-  "homepage": "https://github.com/itsjzt/utility-CSS#readme"
+  "homepage": "https://github.com/itsjzt/utility-CSS#readme",
+  "dependencies": {
+    "node-sass": "^4.6.0"
+  }
 }
