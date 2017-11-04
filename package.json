@@ -5,8 +5,8 @@
   "main": "null",
   "scripts": {
     "test": "none",
-    "watch": " node-sass --watch --recursive --output-style compressed src/ -o build/",
-    "build": "node-sass --output-style compressed src/ -o build/"
+    "start": "npm run-script build",
+    "build": "node-sass ./src/ --output ./build/ --output-style compressed"
   },
   "repository": {
     "type": "git",
