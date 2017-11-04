@@ -6,3 +6,6 @@ node_modules
 
 # utility file in src hack
 src/utility.css
+
+# I use todo.md
+todo.md
