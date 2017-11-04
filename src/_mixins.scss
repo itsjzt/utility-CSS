@@ -1,0 +1,15 @@
+@mixin border-radius($r) {
+  border-radius: $r;
+}
+
+@mixin padding($x, $y) {
+  padding: $x $y;
+}
+
+@mixin margin($x, $y) {
+  margin: $x $y;
+}
+
+@mixin box-shadow($rem, $color) {
+  box-shadow: $rem $rem $rem $color;
+}
