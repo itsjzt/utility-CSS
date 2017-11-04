@@ -1,11 +1,19 @@
-// layout measure
+// layout and measure vars
 $xs: 0.125rem;
 $sm: 0.25rem;
 $md: 0.5rem;
 $lg: 1rem;
 $xl: 2rem;
 
-// font size
+// color vars taken from getbootstrap.com
+$primary:  #0275d8;
+$success:  #5cb85c;
+$warning: #f0ad4e;
+$danger: #d9534f;
+$black: #000000;
+$white: #ffffff;
+
+// font size and text related vars
 $font-xs: 0.6rem;
 $font-sm: 0.8rem;
 $font-md: 1.0rem;
