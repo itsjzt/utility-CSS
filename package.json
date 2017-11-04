@@ -1,0 +1,31 @@
+{
+  "name": "utility-css",
+  "version": "0.0.1",
+  "description": "A minimal CSS library for making components with composition of common CSS properties ",
+  "main": "null",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsjzt/utility-CSS.git"
+  },
+  "keywords": [
+    "css",
+    "library",
+    "component",
+    "based",
+    "css",
+    "library",
+    "composition",
+    "elements",
+    "with",
+    "css"
+  ],
+  "author": "itsjzt <saurabh.19@outlook.com> (itsjzt.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsjzt/utility-CSS/issues"
+  },
+  "homepage": "https://github.com/itsjzt/utility-CSS#readme"
+}
