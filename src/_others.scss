@@ -3,8 +3,18 @@
 
 @import '_vars.scss';
 
-.-h-opaque:hover {
+// hover elements
+.-h-opacity:hover {
   opacity: $opacity;
+}
+
+.-h-shadow:hover {
+  box-shadow: $shadow;
+}
+
+// shadow
+.-shadow {
+  box-shadow: $shadow;
 }
 
 // border radii
