@@ -8,3 +8,5 @@ A minimal utility CSS library
 [Classes CheatSheet](docs/classes-cheatsheet.md)
 
 Read about our [conventions](docs/conventions.md) and [Contribute Guide](contribute.md)
+
+CDN: https://gitcdn.xyz/repo/itsjzt/utility-CSS/master/build/utility.css

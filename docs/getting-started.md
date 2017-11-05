@@ -11,7 +11,7 @@ We try to make CSS more re-usable by challenging the conventional way to Seprati
 In our library we style the components with small CSS selectors that compose together and form great looking authentic design.
 
 ### how to get started
-- Add this `<link type="stylesheet" href="">` to your html file
+- Add this `<link type="stylesheet" href="https://gitcdn.xyz/repo/itsjzt/utility-CSS/master/build/utility.css">` to your html file
 - now you cna style your components easily with Utility CSS.
 
 ### Some Common classes
