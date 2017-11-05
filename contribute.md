@@ -16,6 +16,6 @@ ex:
 
 
 ## PR's
-- Unless you are fixing any issue PR in `dev` branch
+- Unless you are fixing any issue or any typo error in docs, PR in `dev` branch
 - Read our [convention](docs/conventions.md) before adding new code.
 - Name the PR's as stated above.
