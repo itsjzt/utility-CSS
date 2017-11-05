@@ -4,6 +4,9 @@ node_modules
 **/package-lock.json
 *.log
 
+#build
+build/
+
 # utility file in src hack
 src/utility.css
 
