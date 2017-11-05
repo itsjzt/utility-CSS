@@ -5,7 +5,7 @@ node_modules
 *.log
 
 #build
-build/
+build
 
 # utility file in src hack
 src/utility.css
