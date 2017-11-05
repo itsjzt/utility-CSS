@@ -11,6 +11,8 @@ We follow a strict naming convention and use them through out the project.
   ex: -inline
 
 ### Hover Names
+We just have 1 hover class, `h:opacity-{{size}}`
 
 
 ### Pseudo Names
+We don't have any pseudo class
