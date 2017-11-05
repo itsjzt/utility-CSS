@@ -1,0 +1,76 @@
+@import '_vars.scss';
+
+// bg's
+.-bg-info {
+  background: $info-color;
+}
+
+.-bg-danger {
+  background: $danger-color;
+}
+
+.-bg-warning {
+  background: $warning-color;
+}
+
+.-bg-success {
+  background: $success-color;
+}
+
+.-bg-white {
+  background: $white-color;
+}
+
+.-bg-black {
+  background: $black-color;
+}
+
+// text colors
+.-text-info {
+  color: $info-color;
+}
+
+.-text-warning {
+  color: $warning-color;
+}
+
+.-text-success {
+  color: $success-color;
+}
+
+.-text-danger {
+  color: $danger-color;
+}
+
+.-text-white {
+  color: $white-color;
+}
+
+.-text-black {
+  color: $black-color;
+}
+
+// borders
+.-border-info {
+  border-color: $info-color;
+}
+
+.-border-warning {
+  border-color: $warning-color;
+}
+
+.-border-success {
+  border-color: $success-color;
+}
+
+.-border-danger {
+  border-color: $danger-color;
+}
+
+.-border-white {
+  border-color: $white-color;
+}
+
+.-border-black {
+  border-color: $black-color;
+}
