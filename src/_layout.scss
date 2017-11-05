@@ -1,4 +1,85 @@
+@import '_mixins.scss';
+@import '_vars.scss';
 
-.padx-sm {
-  padding: 4px 0;
+// paddings
+.-padx-xs {
+  @include padding(0, $xs)
+}
+
+.-padx-sm {
+  @include padding(0, $sm);
+}
+
+.-padx-md {
+  @include padding(0, $md);
+}
+
+.-padx-lg {
+  @include padding(0, $lg);
+}
+
+.-padx-xl {
+  @include padding(0, $xl);
+}
+
+.-pady-xs {
+  @include padding($xs, 0);
+}
+
+.-pady-sm {
+  @include padding($sm, 0);
+}
+
+.-pady-md {
+  @include padding($md, 0);
+}
+
+.-pady-lg {
+  @include padding($lg, 0);
+}
+
+.-pady-xl {
+  @include padding($xl, 0);
+}
+
+// margins
+
+.-marx-xs {
+  @include margin(0, $xs)
+}
+
+.-marx-sm {
+  @include margin(0, $sm);
+}
+
+.-marx-md {
+  @include margin(0, $md);
+}
+
+.-marx-lg {
+  @include margin(0, $lg);
+}
+
+.-marx-xl {
+  @include margin(0, $xl);
+}
+
+.-mary-xs {
+  @include margin($xs, 0);
+}
+
+.-mary-sm {
+  @include margin($sm, 0);
+}
+
+.-mary-md {
+  @include margin($md, 0);
+}
+
+.-mary-lg {
+  @include margin($lg, 0);
+}
+
+.-mary-xl {
+  @include margin($xl, 0);
 }

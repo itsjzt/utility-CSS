@@ -4,7 +4,7 @@
 We follow a strict naming convention and use them through out the project.
 
 ### Component Names
-- All the utility names start with `-{{utility-type}}-{{utility name}}`
+- All the utility names start with `-{{utility-key}}:{{utility value}}`
   ex: -text-center
 
 - widely used and unique name start with `-{{unique-utility-name}}`
