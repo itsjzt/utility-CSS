@@ -9,4 +9,6 @@ A minimal utility CSS library
 
 Read about our [conventions](docs/conventions.md) and [Contribute Guide](contribute.md)
 
+[Read about the core philosphy](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
+
 CDN: https://gitcdn.xyz/repo/itsjzt/utility-CSS/master/build/utility.css
