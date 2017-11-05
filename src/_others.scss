@@ -1,0 +1,23 @@
+// Elements that don't match with any other classification out there in files
+// includes `border`, `hover`, `border-radius`,
+
+@import '_vars.scss';
+
+.-hover-opaque:hover {
+  opacity: $opacity;
+}
+
+// border radii
+.-round {
+  border-radius: $sm;
+}
+
+.-circle {
+  border-radius: 50%;
+}
+
+// border
+.-border {
+  border-width: $xs;
+  border-style: solid;
+}

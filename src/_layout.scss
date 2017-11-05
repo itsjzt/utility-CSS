@@ -83,3 +83,7 @@
 .-mary-xl {
   @include margin($xl, 0);
 }
+
+.-mar-auto {
+  @include margin(auto, auto);
+}
