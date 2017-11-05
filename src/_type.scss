@@ -1,85 +1,85 @@
 @import '_vars.scss';
 
-.-text-serif {
+.-txt-serif {
   font-family: $serif;
 }
 
-.-text-sans {
+.-txt-sans {
   font-family: $sans-serif;
 }
 
-.-text-italic {
+.-txt-italic {
   font-style: italic;
 }
 
-.-text-bold {
+.-txt-bold {
   font-weight: 700;
 }
 
 // sizes
-.-text-xs {
+.-txt-xs {
   font-size: $font-xs;
 }
 
-.-text-sm {
+.-txt-sm {
   font-size: $font-sm;
 }
 
-.-text-md {
+.-txt-md {
   font-size: $font-md;
 }
 
-.-text-lg {
+.-txt-lg {
   font-size: $font-lg;
 }
 
-.-text-xl {
+.-txt-xl {
   font-size: $font-xl;
 }
 
 // aligns
-.-text-center {
+.-txt-center {
   text-align: center;
 }
 
-.-text-left {
+.-txt-left {
   text-align: left;
 }
 
-.-text-right {
+.-txt-right {
   text-align: right;
 }
 
 // transform
-.-text-titlecase {
+.-txt-titlecase {
   text-transform: capitalize;
 }
 
-.-text-lowercase {
+.-txt-lowercase {
   text-transform: lowercase;
 }
 
-.-text-uppercase {
+.-txt-uppercase {
   text-transform: uppercase;
 }
 
 // heights
-.-text-height-xs {
+.-txt-ht-xs {
   line-height: $font-xs;
 }
 
-.-text-height-sm {
+.-txt-ht-sm {
   line-height: $font-sm;
 }
 
-.-text-height-md {
+.-txt-ht-md {
   line-height: $font-md;
 }
 
-.-text-height-lg {
+.-txt-ht-lg {
   line-height: $font-lg;
 }
 
-.-text-height-xl {
+.-txt-ht-xl {
   line-height: $font-xl;
 }

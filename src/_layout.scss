@@ -2,88 +2,88 @@
 @import '_vars.scss';
 
 // paddings
-.-padx-xs {
+.-px-xs {
   @include padding(0, $xs)
 }
 
-.-padx-sm {
+.-px-sm {
   @include padding(0, $sm);
 }
 
-.-padx-md {
+.-px-md {
   @include padding(0, $md);
 }
 
-.-padx-lg {
+.-px-lg {
   @include padding(0, $lg);
 }
 
-.-padx-xl {
+.-px-xl {
   @include padding(0, $xl);
 }
 
-.-pady-xs {
+.-py-xs {
   @include padding($xs, 0);
 }
 
-.-pady-sm {
+.-py-sm {
   @include padding($sm, 0);
 }
 
-.-pady-md {
+.-py-md {
   @include padding($md, 0);
 }
 
-.-pady-lg {
+.-py-lg {
   @include padding($lg, 0);
 }
 
-.-pady-xl {
+.-py-xl {
   @include padding($xl, 0);
 }
 
 // margins
 
-.-marx-xs {
+.-mx-xs {
   @include margin(0, $xs)
 }
 
-.-marx-sm {
+.-mx-sm {
   @include margin(0, $sm);
 }
 
-.-marx-md {
+.-mx-md {
   @include margin(0, $md);
 }
 
-.-marx-lg {
+.-mx-lg {
   @include margin(0, $lg);
 }
 
-.-marx-xl {
+.-mx-xl {
   @include margin(0, $xl);
 }
 
-.-mary-xs {
+.-my-xs {
   @include margin($xs, 0);
 }
 
-.-mary-sm {
+.-my-sm {
   @include margin($sm, 0);
 }
 
-.-mary-md {
+.-my-md {
   @include margin($md, 0);
 }
 
-.-mary-lg {
+.-my-lg {
   @include margin($lg, 0);
 }
 
-.-mary-xl {
+.-my-xl {
   @include margin($xl, 0);
 }
 
-.-mar-auto {
+.-m-auto {
   @include margin(auto, auto);
 }
