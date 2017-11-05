@@ -1,89 +1,109 @@
-@import '_mixins.scss';
 @import '_vars.scss';
 
+// Use specific padding or margin, so that other dimensions can be re-styled later
 // paddings
 .-px-xs {
-  @include padding(0, $xs)
+  padding-left: $xs;
+  padding-right: $xs;
 }
 
 .-px-sm {
-  @include padding(0, $sm);
+  padding-left: $sm;
+  padding-right: $sm;
 }
 
 .-px-md {
-  @include padding(0, $md);
+  padding-left: $md;
+  padding-right: $md;
 }
 
 .-px-lg {
-  @include padding(0, $lg);
+  padding-left: $lg;
+  padding-right: $lg;
 }
 
 .-px-xl {
-  @include padding(0, $xl);
+  padding-left: $xl;
+  padding-right: $xl;
 }
 
 .-py-xs {
-  @include padding($xs, 0);
+  padding-top: $xs;
+  padding-bottom: $xs;
 }
 
 .-py-sm {
-  @include padding($sm, 0);
+  padding-top: $sm;
+  padding-bottom: $sm;
 }
 
 .-py-md {
-  @include padding($md, 0);
+  padding-top: $md;
+  padding-bottom: $md;
 }
 
 .-py-lg {
-  @include padding($lg, 0);
+  padding-top: $lg;
+  padding-bottom: $lg;
 }
 
 .-py-xl {
-  @include padding($xl, 0);
+  padding-top: $xl;
+  padding-bottom: $xl;
 }
 
 // margins
 
 .-mx-xs {
-  @include margin(0, $xs)
+  margin-left: $xs;
+  margin-right: $xs;
 }
 
 .-mx-sm {
-  @include margin(0, $sm);
+  margin-left: $sm;
+  margin-right: $sm;
 }
 
 .-mx-md {
-  @include margin(0, $md);
+  margin-left: $md;
+  margin-right: $md;
 }
 
 .-mx-lg {
-  @include margin(0, $lg);
+  margin-left: $lg;
+  margin-right: $lg;
 }
 
 .-mx-xl {
-  @include margin(0, $xl);
+  margin-left: $xl;
+  margin-right: $xl;
 }
 
 .-my-xs {
-  @include margin($xs, 0);
+  margin-top: $xs;
+  margin-bottom: $xs;
 }
 
 .-my-sm {
-  @include margin($sm, 0);
+  margin-top: $sm;
+  margin-bottom: $sm;
 }
 
 .-my-md {
-  @include margin($md, 0);
+  margin-top: $md;
+  margin-bottom: $md;
 }
 
 .-my-lg {
-  @include margin($lg, 0);
+  margin-top: $lg;
+  margin-bottom: $lg;
 }
 
 .-my-xl {
-  @include margin($xl, 0);
+  margin-top: $xl;
+  margin-bottom: $xl;
 }
 
 .-m-auto {
-  @include margin(auto, auto);
+  margin: auto;
 }
