@@ -4,7 +4,7 @@
   font-family: $serif;
 }
 
-.text-sans {
+.-text-sans {
   font-family: $sans-serif;
 }
 
@@ -72,15 +72,15 @@
   line-height: $font-sm;
 }
 
-.text-height-md {
+.-text-height-md {
   line-height: $font-md;
 }
 
-.text-height-lg {
+.-text-height-lg {
   line-height: $font-lg;
 }
 
-.text-height-xl {
+.-text-height-xl {
   line-height: $font-xl;
 }
 
@@ -101,10 +101,10 @@
   color: $danger-color;
 }
 
-.text-white {
+.-text-white {
   color: $white-color;
 }
 
-.text-black {
+.-text-black {
   color: $black-color;
 }
