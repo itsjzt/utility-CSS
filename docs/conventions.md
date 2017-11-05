@@ -7,6 +7,10 @@ We follow simple conventions so that code look consistent.
 ### Preprocessor
 This project uses SCSS as its preprocessor and we try to limit our usage upto variables and mixins while mixins are used where the style is used ruthlessly throughout the code,
 
+### Spaces & Indentation
+- Use 2 spaces for indentation.
+- use 1 line gap between different css selectors.
+
 ### Variables & Mixins
 - Use variables instead of spreading pixel and rems around the codebase.
 - Intoduce a mixin only if that sytle is used frequently.
