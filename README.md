@@ -1,13 +1,11 @@
 # utility-CSS
 ## A minimal utility CSS library that consists to small classes that makes components.
 
-[![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)]()
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=flat-square)]()
+<iframe src="https://ghbtns.com/github-btn.html?user=itsjzt&repo=utility-CSS&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
+<iframe src="https://ghbtns.com/github-btn.html?user=itsjzt&repo=utility-CSS&type=star&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=flat-square)]()
-
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)]()
+<iframe src="https://ghbtns.com/github-btn.html?user=itsjzt&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
 
 > A minimal CSS library for making components with composition of common CSS properties
 
