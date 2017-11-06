@@ -59,3 +59,5 @@
 - `-circle` give 50% broder radius.
 
 - `-bd` for giving border.
+
+- `-fill` for making element width 100 percent.

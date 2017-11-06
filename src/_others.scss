@@ -19,7 +19,7 @@
 
 // border radii
 .-round {
-  border-radius: $sm;
+  border-radius: $md;
 }
 
 .-circle {
@@ -28,6 +28,15 @@
 
 // border
 .-bd {
-  border-width: $xs;
+  border-width: $border;
   border-style: solid;
 }
+
+.-no-bd {
+  border: none;
+}
+
+.fill {
+  width: 100%;
+}
+

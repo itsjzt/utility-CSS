@@ -21,11 +21,14 @@ $font-lg: 1.2rem;
 $font-xl: 1.4rem;
 
 // font families
-$serif: serif;
-$sans-serif: sans-serif;
+$serif: 'Times New Roman', Georgia, Serif;;
+$sans-serif: -apple-system,system-ui,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;
 
 // opacity constant
 $opacity: 0.75;
 
 // shadow cosntant
 $shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.25), 2px 2px 2px 2px rgba(255, 255, 255, 0.25);
+
+// border constant
+$border: 0.0625rem;
