@@ -1,32 +1,32 @@
 # utility-CSS
-## A minimal utility CSS library that consists to small classes that makes components.
+> A minimal CSS library that consists of small classes to make modern components of your website.
 
-<iframe src="https://ghbtns.com/github-btn.html?user=itsjzt&repo=utility-CSS&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+## Why we made this [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
-<iframe src="https://ghbtns.com/github-btn.html?user=itsjzt&repo=utility-CSS&type=star&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+It started with a plan to make a CSS library that is highly reusable and immutable at the core. Instead of looking for the fancy features like modals and dropdowns. We tried to make something is easy to integrate into projects. It is so small that you can learn the whole library in minutes (look at [Cheatsheet](docs/classes-cheatsheet.md)).
 
-<iframe src="https://ghbtns.com/github-btn.html?user=itsjzt&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
 
-> A minimal CSS library for making components with composition of common CSS properties
-
-We don't intended to make fancy logos, unique name or super-duper website we wanted to ship the code so you can use play with it, used it in projects with help of [docs](docs/getting-started.md) and we did it with our alpha release (0.0.1).
-
-We are different from other conventional CSS frameworks out there, we wanted to write specific CSS styles  (1 - 2 line of CSS for 1 class) and make them globally re-usable.
-
-We don't have a button to show you how cool our library looks, but we can use composition of our css classes to make thousands of button styles.
-
-```html
-<button class="-px-lg -py-sm -bg-info -txt-white -bd-none -h-shadow">Button</button>
-```
-![button](docs/imgs/button.png)
-
-looks a lot of classes but wait they are super reusable and easy don't contradict with other classes because they can be composed easily.
+## Getting Started
 
 **CDN: https://gitcdn.xyz/repo/itsjzt/utility-CSS/master/build/utility.css**
 
+At the core our library is just bunch of classes for simple CSS properties like padding, margin, font size etc. We compose them together to form a component like this button below:
+
+```html
+<button class="-px-lg -py-sm -bg-info -txt-white -no-bd -h-shadow">Button</button>
+```
+![button](docs/imgs/button.png)
+
+looking at the classes you will get that they are short names of common CSS properties like `-px-lg` for padding large on the X axis and `-bg-info` for background denoting info message (Colors inspired from [Bootstrap](https://getbootstrap.com)).
+
+_Link to our CDN in you [codepen Pen](https://codepen.io/pen) and try it out._
+
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
+We still have a lot to get done now and we will genuinely appreciate if someone can give their valuable time to our project. We will try to be as helpful as possible for beginners. be sure to read our [contribute.md](contribute.md).You can read our [todo.md](todo.md) and try out hands on the code or docs.
 
 
-### Further reads:
+## Further reads:
 [Read how can you add it to your project](docs/getting-started.md)
 
 [Classes CheatSheet](docs/classes-cheatsheet.md)

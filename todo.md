@@ -1,3 +1,6 @@
-[] make readme better
-[] have a good loking documentation
-[x] add new tags like fill, rename border
+#TODO
+
+- [ ] make readme better.
+- [ ] have a good looking documentation.
+- [ ] A webpage to showcase out project and docs.
+- [ ] Some kind of logo.
