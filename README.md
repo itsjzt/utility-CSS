@@ -4,7 +4,6 @@
 [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)]()
 [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=flat-square)]()
 
-[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork&style=flat-square)]()
 
 [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=flat-square)]()
 
