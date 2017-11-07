@@ -27,8 +27,10 @@ We still have a lot to get done now and we will genuinely appreciate if someone 
 
 ## View Some Examples
 [Simple Alert](https://codepen.io/itsjzt/pen/MOegdv)
-[Buttons](https://codepen.io/itsjzt/pen/JORWog)
-[Cards](https://codepen.io/itsjzt/pen/POGbby)
+
+[fancy Buttons](https://codepen.io/itsjzt/pen/JORWog)
+
+[Cards made simple](https://codepen.io/itsjzt/pen/POGbby)
 
 ## Further reads:
 [Read how can you add it to your project](docs/getting-started.md)
