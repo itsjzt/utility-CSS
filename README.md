@@ -25,6 +25,10 @@ _Try our library in [codepen Pen](https://codepen.io/itsjzt/pen/MOegdv)._
 
 We still have a lot to get done now and we will genuinely appreciate if someone can give their valuable time to our project. We will try to be as helpful as possible for beginners. be sure to read our [contribute.md](contribute.md).You can read our [todo.md](todo.md) and try out hands on the code or docs.
 
+## View Some Examples
+[Simple Alert](https://codepen.io/itsjzt/pen/MOegdv)
+[Buttons](https://codepen.io/itsjzt/pen/JORWog)
+[Cards](https://codepen.io/itsjzt/pen/POGbby)
 
 ## Further reads:
 [Read how can you add it to your project](docs/getting-started.md)
