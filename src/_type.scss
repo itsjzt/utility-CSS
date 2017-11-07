@@ -1,85 +1,87 @@
 @import '_vars.scss';
 
-.-txt-serif {
-  font-family: $serif;
+.-txt {
+  &-serif {
+    font-family: $serif;
+  }
+  &-sans {
+    font-family: $sans-serif;
+  }
+
+  &-italic {
+    font-style: italic;
+  }
+
+  &-bold {
+    font-weight: 700;
+  }
+
+  // sizes
+  &-xs {
+    font-size: $font-xs;
+  }
+
+  &-sm {
+    font-size: $font-sm;
+  }
+
+  &-md {
+    font-size: $font-md;
+  }
+
+  &-lg {
+    font-size: $font-lg;
+  }
+
+  &-xl {
+    font-size: $font-xl;
+  }
+
+  // aligns
+  &-center {
+    text-align: center;
+  }
+
+  &-left {
+    text-align: left;
+  }
+
+  &-right {
+    text-align: right;
+  }
+
+  // transform
+  &-titlecase {
+    text-transform: capitalize;
+  }
+
+  &-lowercase {
+    text-transform: lowercase;
+  }
+
+  &-uppercase {
+    text-transform: uppercase;
+  }
+
+  // heights
+  &-ht-xs {
+    line-height: $font-xs;
+  }
+
+  &-ht-sm {
+    line-height: $font-sm;
+  }
+
+  &-ht-md {
+    line-height: $font-md;
+  }
+
+  &-ht-lg {
+    line-height: $font-lg;
+  }
+
+  &-ht-xl {
+    line-height: $font-xl;
+  }
 }
 
-.-txt-sans {
-  font-family: $sans-serif;
-}
-
-.-txt-italic {
-  font-style: italic;
-}
-
-.-txt-bold {
-  font-weight: 700;
-}
-
-// sizes
-.-txt-xs {
-  font-size: $font-xs;
-}
-
-.-txt-sm {
-  font-size: $font-sm;
-}
-
-.-txt-md {
-  font-size: $font-md;
-}
-
-.-txt-lg {
-  font-size: $font-lg;
-}
-
-.-txt-xl {
-  font-size: $font-xl;
-}
-
-// aligns
-.-txt-center {
-  text-align: center;
-}
-
-.-txt-left {
-  text-align: left;
-}
-
-.-txt-right {
-  text-align: right;
-}
-
-// transform
-.-txt-titlecase {
-  text-transform: capitalize;
-}
-
-.-txt-lowercase {
-  text-transform: lowercase;
-}
-
-.-txt-uppercase {
-  text-transform: uppercase;
-}
-
-// heights
-.-txt-ht-xs {
-  line-height: $font-xs;
-}
-
-.-txt-ht-sm {
-  line-height: $font-sm;
-}
-
-.-txt-ht-md {
-  line-height: $font-md;
-}
-
-.-txt-ht-lg {
-  line-height: $font-lg;
-}
-
-.-txt-ht-xl {
-  line-height: $font-xl;
-}
