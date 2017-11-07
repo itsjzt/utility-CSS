@@ -1,2 +1,30 @@
-// Everything related to display properties and some position elements.
+// Everything related to flexbox.
 
+.-flex {
+  display: flex;
+}
+
+.-in-flex {
+  display: inline-flex;
+}
+
+.-jc-center {
+  justify-content: center;
+}
+
+.-ai-center {
+  align-items: center;
+}
+
+.-center {
+  justify-content: center;
+  align-items: center;
+}
+
+.-resp {
+  flex-wrap: wrap;
+}
+
+.-pin {
+  order: -1;
+}

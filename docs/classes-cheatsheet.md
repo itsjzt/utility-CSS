@@ -61,3 +61,14 @@
 - `-bd` for giving border.
 
 - `-fill` for making element width 100 percent.
+
+**Grid System**
+> Use it to make a grid system in your website.
+
+- `-flex` for start using flexbox same as `row` of Bootstrap.
+- `-in-flex` for inline flex.
+- `-jc-center` for making it center on Main axis.
+- `-ai-center` for making it center on Cross axis.
+- `-center` for making it center from both axis (perfect center).
+- `-resp` It wraps the box if width felt short. (responsive)
+- `-pin` It pins the item on top of parent even if it is last in HTML code.
