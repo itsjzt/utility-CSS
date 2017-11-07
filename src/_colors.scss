@@ -1,76 +1,79 @@
 @import '_vars.scss';
 
 // bg's
-.-bg-info {
-  background: $info-color;
-}
+.-bg {
+  &-info {
+    background: $info-color;
+  }
+  &-danger {
+    background: $danger-color;
+  }
 
-.-bg-danger {
-  background: $danger-color;
-}
+  &-warning {
+    background: $warning-color;
+  }
 
-.-bg-warning {
-  background: $warning-color;
-}
+  &-success {
+    background: $success-color;
+  }
 
-.-bg-success {
-  background: $success-color;
-}
+  &-white {
+    background: $white-color;
+  }
 
-.-bg-white {
-  background: $white-color;
-}
-
-.-bg-black {
-  background: $black-color;
+  &-black {
+    background: $black-color;
+  }
 }
 
 // text colors
-.-txt-info {
-  color: $info-color;
-}
+.-txt {
+  &-info {
+    color: $info-color;
+  }
+  &-warning {
+    color: $warning-color;
+  }
 
-.-txt-warning {
-  color: $warning-color;
-}
+  &-success {
+    color: $success-color;
+  }
 
-.-txt-success {
-  color: $success-color;
-}
+  &-danger {
+    color: $danger-color;
+  }
 
-.-txt-danger {
-  color: $danger-color;
-}
+  &-white {
+    color: $white-color;
+  }
 
-.-txt-white {
-  color: $white-color;
-}
-
-.-txt-black {
-  color: $black-color;
+  &-black {
+    color: $black-color;
+  }
 }
 
 // borders
-.-bd-info {
-  border-color: $info-color;
-}
+.-bd {
+  &-info {
+    border-color: $info-color;
+  }
+  &-warning {
+    border-color: $warning-color;
+  }
 
-.-bd-warning {
-  border-color: $warning-color;
-}
+  &-success {
+    border-color: $success-color;
+  }
 
-.-bd-success {
-  border-color: $success-color;
-}
+  &-danger {
+    border-color: $danger-color;
+  }
 
-.-bd-danger {
-  border-color: $danger-color;
-}
+  &-white {
+    border-color: $white-color;
+  }
 
-.-bd-white {
-  border-color: $white-color;
-}
-
-.-bd-black {
-  border-color: $black-color;
+  &-black {
+    border-color: $black-color;
+  }
 }

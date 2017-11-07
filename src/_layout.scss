@@ -2,106 +2,101 @@
 
 // Use specific padding or margin, so that other dimensions can be re-styled later
 // paddings
-.-px-xs {
-  padding-left: $xs;
-  padding-right: $xs;
+.-px {
+  &-xs {
+    padding-left: $xs;
+    padding-right: $xs;
+  }
+  &-sm {
+    padding-left: $sm;
+    padding-right: $sm;
+  }
+  &-md {
+    padding-left: $md;
+    padding-right: $md;
+  }
+  &-lg {
+    padding-left: $lg;
+    padding-right: $lg;
+  }
+  &-xl {
+    padding-left: $xl;
+    padding-right: $xl;
+  }
 }
 
-.-px-sm {
-  padding-left: $sm;
-  padding-right: $sm;
+
+.-py {
+  &-xs {
+    padding-top: $xs;
+    padding-bottom: $xs;
+  }
+  &-sm {
+    padding-top: $sm;
+    padding-bottom: $sm;
+  }
+  &-md {
+    padding-top: $md;
+    padding-bottom: $md;
+  }
+  &-lg {
+    padding-top: $lg;
+    padding-bottom: $lg;
+  }
+  &-xl {
+    padding-top: $xl;
+    padding-bottom: $xl;
+  }
 }
 
-.-px-md {
-  padding-left: $md;
-  padding-right: $md;
+.-mx {
+  &-xs {
+    margin-left: $xs;
+    margin-right: $xs;
+  }
+  &-sm {
+    margin-left: $sm;
+    margin-right: $sm;
+  }
+  &-md {
+    margin-left: $md;
+    margin-right: $md;
+  }
+  &-lg {
+    margin-left: $lg;
+    margin-right: $lg;
+  }
+  &-xl {
+    margin-left: $xl;
+    margin-right: $xl;
+  }
 }
 
-.-px-lg {
-  padding-left: $lg;
-  padding-right: $lg;
-}
 
-.-px-xl {
-  padding-left: $xl;
-  padding-right: $xl;
-}
+.-my {
+  &-xs {
+    margin-top: $xs;
+    margin-bottom: $xs;
+  }
+  &-sm {
+    margin-top: $sm;
+    margin-bottom: $sm;
+  }
 
-.-py-xs {
-  padding-top: $xs;
-  padding-bottom: $xs;
-}
+  &-md {
+    margin-top: $md;
+    margin-bottom: $md;
+  }
 
-.-py-sm {
-  padding-top: $sm;
-  padding-bottom: $sm;
-}
+  &-lg {
+    margin-top: $lg;
+    margin-bottom: $lg;
+  }
 
-.-py-md {
-  padding-top: $md;
-  padding-bottom: $md;
-}
-
-.-py-lg {
-  padding-top: $lg;
-  padding-bottom: $lg;
-}
-
-.-py-xl {
-  padding-top: $xl;
-  padding-bottom: $xl;
-}
-
-// margins
-
-.-mx-xs {
-  margin-left: $xs;
-  margin-right: $xs;
-}
-
-.-mx-sm {
-  margin-left: $sm;
-  margin-right: $sm;
-}
-
-.-mx-md {
-  margin-left: $md;
-  margin-right: $md;
-}
-
-.-mx-lg {
-  margin-left: $lg;
-  margin-right: $lg;
-}
-
-.-mx-xl {
-  margin-left: $xl;
-  margin-right: $xl;
-}
-
-.-my-xs {
-  margin-top: $xs;
-  margin-bottom: $xs;
-}
-
-.-my-sm {
-  margin-top: $sm;
-  margin-bottom: $sm;
-}
-
-.-my-md {
-  margin-top: $md;
-  margin-bottom: $md;
-}
-
-.-my-lg {
-  margin-top: $lg;
-  margin-bottom: $lg;
-}
-
-.-my-xl {
-  margin-top: $xl;
-  margin-bottom: $xl;
+  &-xl {
+    margin-top: $xl;
+    margin-bottom: $xl;
+  }
 }
 
 .-m-auto {
