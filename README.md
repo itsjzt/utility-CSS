@@ -19,7 +19,7 @@ At the core our library is just bunch of classes for simple CSS properties like 
 
 looking at the classes you will get that they are short names of common CSS properties like `-px-lg` for padding large on the X axis and `-bg-info` for background denoting info message (Colors inspired from [Bootstrap](https://getbootstrap.com)).
 
-_Link to our CDN in you [codepen Pen](https://codepen.io/pen) and try it out._
+_Try our library in [codepen Pen](https://codepen.io/itsjzt/pen/MOegdv)._
 
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
