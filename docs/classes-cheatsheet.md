@@ -34,7 +34,7 @@
 
 - `-my-[xs | sm | md | lg | xl]` for margin on Y axis.
 
-- `m-auto` for margin auto.
+- `-m-auto` for margin auto.
 
 **Color**
 
@@ -48,11 +48,11 @@
 
 **Others**
 
-- `h:opacity` give 0.7 opacity on hover.
+- `-h:opacity` give 0.7 opacity on hover.
 
-- `h:shadow` give small shadow on hover.
+- `-h:shadow` give small shadow on hover.
 
-- `shadow` small shadow on element.
+- `-shadow` small shadow on element.
 
 - `-round` give some broder radius to element look round.
 
@@ -60,7 +60,15 @@
 
 - `-bd` for giving border.
 
+- `-no-bd` remove borders from element, like in buttons.
+
+- `-inline` make the element inline block.
+
+- `-block` make the element block level.
+
 - `-fill` for making element width 100 percent.
+
+- `-hide` hide the element.
 
 **Grid System**
 > Use it to make a grid system in your website.

@@ -12,12 +12,10 @@
   box-shadow: $shadow;
 }
 
-// shadow
 .-shadow {
   box-shadow: $shadow;
 }
 
-// border radii
 .-round {
   border-radius: $md;
 }
@@ -36,7 +34,7 @@
   border: none;
 }
 
-.fill {
+.-fill {
   max-width: 100%;
 }
 
@@ -48,6 +46,6 @@
   display: block;
 }
 
-.-fixed {
-  position: fixed;
+.-hide {
+  display: none;
 }
