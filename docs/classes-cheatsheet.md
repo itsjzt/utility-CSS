@@ -80,3 +80,12 @@
 - `-center` for making it center from both axis (perfect center).
 - `-resp` It wraps the box if width felt short. (responsive)
 - `-pin` It pins the item on top of parent even if it is last in HTML code.
+
+**Positioning**
+> Position elements to specific place of the page (class -abs is needed for positioning)
+- `-abs` first position the element absolute.
+- `-rel` position the element relative.
+- `-top` float the element to top.
+- `-left` float the element to left.
+- `-right` float the element to right.
+- `-bottom` float the element to bottom.
