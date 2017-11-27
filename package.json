@@ -13,16 +13,10 @@
     "url": "git+https://github.com/itsjzt/utility-CSS.git"
   },
   "keywords": [
-    "css",
     "library",
     "component",
-    "based",
     "css",
-    "library",
     "composition",
-    "elements",
-    "with",
-    "css"
   ],
   "author": "itsjzt <saurabh.19@outlook.com> (itsjzt.github.io)",
   "license": "MIT",
