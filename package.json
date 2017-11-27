@@ -5,8 +5,7 @@
   "main": "null",
   "scripts": {
     "test": "none",
-    "start": "npm run-script build",
-    "build": "node-sass ./src/ --output ./build/ --output-style compressed"
+    "start": "node-sass ./src/ --output ./build/ --output-style compressed"
   },
   "repository": {
     "type": "git",
@@ -16,7 +15,7 @@
     "library",
     "component",
     "css",
-    "composition",
+    "composition"
   ],
   "author": "itsjzt <saurabh.19@outlook.com> (itsjzt.github.io)",
   "license": "MIT",
