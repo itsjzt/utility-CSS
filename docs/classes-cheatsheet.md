@@ -48,9 +48,9 @@
 
 **Others**
 
-- `-h:opacity` give 0.7 opacity on hover.
+- `-h-opacity` give 0.7 opacity on hover.
 
-- `-h:shadow` give small shadow on hover.
+- `-h-shadow` give small shadow on hover.
 
 - `-shadow` small shadow on element.
 
